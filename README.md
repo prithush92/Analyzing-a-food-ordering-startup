@@ -1,4 +1,5 @@
-# Analyzing-a-food-ordering-startup
+# Analyzing-a-food-ordering-startup 
+
 RollFiesta is a well-known food delivery company that primarily operates in India. It was established in 2020 and initially started as a quick-service restaurant chain specializing in wraps and fast food items. As the demand for convenient food options grew, it transformed into an online food delivery platform.
 
 The company gained popularity by introducing the concept of "wraps on wheels" and allowed foodies to create their own custom Rolls and Wraps. RollFiesta focused on delivering tasty and affordable meals with efficient delivery services.
@@ -11,39 +12,41 @@ RollFiesta focuses on providing a seamless and enjoyable dining experience for i
 
 ## Database Structure:
 
-The database consists of 6 tables as shown below.
+### The database consists of 6 tables as shown below.
 
 ![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/9cdc9a50-a79a-4327-9aeb-82129a614b32)
 
-Column names and their datatypes for each table are shown below.
+### Column names and their datatypes for each table are shown below.
+<hr>
 
-```1. customer_orders: Contains information about orders placed by the customers including order data and ingredients of the order.```
+```1. Customer_Orders: Contains information about orders placed by the customers including order data and ingredients of the order.```
 
 ![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/b42a3ee9-c5b7-4af8-b794-a87e98b5176f)
 
-```2. driver: Contains driver_id and registration_date of the driver.```
+```2. Driver: Contains driver_id and registration_date of the driver.```
 
 ![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/c02c4a7c-d127-4ae1-ba8a-5564c128d100)
 
-```3. driver_order: Contains details about the orders such as pickup_time, delivery_duration, delivery_distance, etc```
+```3. Driver_Order: Contains details about the orders such as pickup_time, delivery_duration, delivery_distance, etc```
 
 ![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/0d7d2979-4189-4ca4-9bf6-62dd87105b36)
 
 
-```4. ingredients: Contains list of available ingredients```
+```4. Ingredients: Contains list of available ingredients```
 
 ![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/0f39282e-729d-4eb1-8c9d-fde8be85fa11)
 
 
-```5. rolls: Defines the Rolls as either Veg or Non-Veg```
+```5. Rolls: Defines the Rolls as either Veg or Non-Veg```
 
 ![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/c8edc3a6-47ea-4104-a41f-089be41bc56a)
 
 
-```6. rolls_recipes: Defines the ingredient_ids for both Veg and Non-Veg Rolls```
+```6. Rolls_Recipes: Defines the ingredient_ids for both Veg and Non-Veg Rolls```
 
 ![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/b3cdd329-a803-432d-91d5-e224170a5c2d)
 
+<hr>
 
 ## The following Queries were run as per the client's request:
 
@@ -70,3 +73,21 @@ Column names and their datatypes for each table are shown below.
 15. What was the average speed for each driver for each delivery, and do you notice any trend for these values?
 16. What is the successful percentage for each driver?
 ```
+
+<hr>
+
+## Key Points and Insights:
+➢ Understanding the popularity and demand for different types of rolls is
+crucial for menu planning and inventory management.
+
+➢ Monitoring driver performance and efficiency in successfully delivering
+orders is essential for maintaining customer satisfaction.
+
+➢ Analyzing customer preferences for veg and non-veg rolls helps tailor
+offerings and target specific segments.
+
+➢ Identifying peak hours and busy days allows for resource allocation and
+operational optimization.
+
+➢ Assessing delivery times, distances, and driver speeds helps improve
+efficiency and customer experience.
