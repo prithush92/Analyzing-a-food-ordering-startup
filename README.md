@@ -9,6 +9,42 @@ RollFiesta experienced significant growth and secured funding from various inves
 
 RollFiesta focuses on providing a seamless and enjoyable dining experience for its customers.
 
+## Database Structure:
+
+The database consists of 6 tables as shown below.
+
+![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/9cdc9a50-a79a-4327-9aeb-82129a614b32)
+
+Column names and their datatypes for each table are shown below.
+
+```1. customer_orders:```
+
+![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/b42a3ee9-c5b7-4af8-b794-a87e98b5176f)
+
+```2. driver:```
+
+![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/c02c4a7c-d127-4ae1-ba8a-5564c128d100)
+
+```3. driver_order```
+
+![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/0d7d2979-4189-4ca4-9bf6-62dd87105b36)
+
+
+```4. ingredients```
+
+![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/0f39282e-729d-4eb1-8c9d-fde8be85fa11)
+
+
+```5. rolls```
+
+![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/c8edc3a6-47ea-4104-a41f-089be41bc56a)
+
+
+```6. rolls_recipes```
+
+![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/b3cdd329-a803-432d-91d5-e224170a5c2d)
+
+
 ## The following Queries were run as per the client's request:
 
 ### Roll Metrics
