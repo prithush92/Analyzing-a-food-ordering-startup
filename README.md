@@ -1,4 +1,4 @@
-# Analyzing-a-food-ordering-startup 
+# 🌯 Analyzing ROLLFIESTA: A Food Ordering Startup 🌯
 
 RollFiesta is a well-known food delivery company that primarily operates in India. It was established in 2020 and initially started as a quick-service restaurant chain specializing in wraps and fast food items. As the demand for convenient food options grew, it transformed into an online food delivery platform.
 
@@ -10,13 +10,13 @@ RollFiesta experienced significant growth and secured funding from various inves
 
 RollFiesta focuses on providing a seamless and enjoyable dining experience for its customers.
 
-## Database Structure:
+## 🗃️ Database Structure: 🗃️
 
 ### The database consists of 6 tables as shown below.
 
 ![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/9cdc9a50-a79a-4327-9aeb-82129a614b32)
 
-### Column names and their datatypes for each table are shown below.
+### 📋 Column names and their datatypes for each table are shown below. 📋
 <hr>
 
 ```1. Customer_Orders: Contains information about orders placed by the customers including order data and ingredients of the order.```
@@ -48,7 +48,7 @@ RollFiesta focuses on providing a seamless and enjoyable dining experience for i
 
 <hr>
 
-## The following Queries were run as per the client's request:
+## ❓ The following Queries were run as per the client's request:
 
 ### Roll Metrics
 ```
@@ -76,7 +76,7 @@ RollFiesta focuses on providing a seamless and enjoyable dining experience for i
 
 <hr>
 
-## Key Points and Insights:
+## ✨Key Points and Insights:✨
 ➢ Understanding the popularity and demand for different types of rolls is
 crucial for menu planning and inventory management.
 
