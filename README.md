@@ -12,21 +12,25 @@ RollFiesta focuses on providing a seamless and enjoyable dining experience for i
 ## The following Queries were run as per the client's request:
 
 ### Roll Metrics
-1. HOW MANY ROLLS WERE ORDERED?
-2. HOW MANY UNIQUE CUSTOMER ORDERS WERE MADE?
-3. HOW MANY SUCCESSFULL ORDERS WERE DELIVERED BY EACH DRIVER?
-4. HOW MANY OF EACH TYPE OF ROLL WAS DELIVERED?
-5. HOW MANY VEG AND NON VEG ROLLS WERE ORDERED BY EACH CUSTOMER?
-6. WHAT WAS THE MAXIMUM NUMBERS OF ROLLS DELIVERED IN A SINGLE ORDER?
-7. FOR EACH CUSTOMER HOW MANY DELIVERED ROLLS HAD ATLEAST ONE CHANGE AND HOW MANY HAD NO CHANGE?
-8. HOW MANY ROLLS WERE DELIVERED THAT HAD BOTH EXCLUSIONS AND EXTRAS?
-9. WHAT WAS THE TOTAL NUMBER OF ROLLS ORDERED FOR EACH HOURS OF THE DAY?
-10. WHAT WAS THE NUMBER OF ORDER FOR EACH DAY OF THE WEEK?
+```
+1. How many rolls were ordered?
+2. How many unique customer orders were made?
+3. How many successful orders were delivered by each driver?
+4. How many of each type of roll was delivered?
+5. How many veg and non-veg rolls were ordered by each customer?
+6. What was the maximum number of rolls delivered in a single order?
+7. For each customer, how many delivered rolls had at least one change, and how many had no change?
+8. How many rolls were delivered that had both exclusions and extras?
+9. What was the total number of rolls ordered for each hour of the day?
+10. What was the number of orders for each day of the week?
+```
 
 ### Driver and Customer Experience
-11. WHAT WAS THE AVERAGE TIME AVERAGE TIME IN MINUTE IT TOOK FOR EACH DRIVER TO ARRIVE AT THE HQ TO PICK THE ORDER?
-12. IS THERE ANY RELATIONSHIP BETWEEN THE NUMBER OF ROLLS AND HOW LONG THE ORDER TAKES TO PREPARE?
-13. WHAT WAS THE AVERAGE DISTANCE TRAVEL FOR EACH CUSTOMER?
-14. WHAT WAS THE LONGEST AND SHORTEST DELIVERY TIME AMONG ALL THE ORDERS?
-15. WHAT WAS THE AVERAGE SPEED FOR EACH DRIVER FOR EACH DEILIVERY AND DO YOU NOTICE ANY TREND FOR THIS VALUES?
-16. WHAT IS THE SUCCESSFUL PERCENTAGE FOR EACH DRIVER?
+```
+11. What was the average time in minutes it took for each driver to arrive at the HQ to pick up the order?
+12. Is there any relationship between the number of rolls and how long the order takes to prepare?
+13. What was the average distance traveled for each customer?
+14. What was the longest and shortest delivery time among all the orders?
+15. What was the average speed for each driver for each delivery, and do you notice any trend for these values?
+16. What is the successful percentage for each driver?
+```
