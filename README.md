@@ -17,30 +17,30 @@ The database consists of 6 tables as shown below.
 
 Column names and their datatypes for each table are shown below.
 
-```1. customer_orders:```
+```1. customer_orders: Contains information about orders placed by the customers including order data and ingredients of the order.```
 
 ![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/b42a3ee9-c5b7-4af8-b794-a87e98b5176f)
 
-```2. driver:```
+```2. driver: Contains driver_id and registration_date of the driver.```
 
 ![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/c02c4a7c-d127-4ae1-ba8a-5564c128d100)
 
-```3. driver_order:```
+```3. driver_order: Contains details about the orders such as pickup_time, delivery_duration, delivery_distance, etc```
 
 ![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/0d7d2979-4189-4ca4-9bf6-62dd87105b36)
 
 
-```4. ingredients:```
+```4. ingredients: Contains list of available ingredients```
 
 ![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/0f39282e-729d-4eb1-8c9d-fde8be85fa11)
 
 
-```5. rolls:```
+```5. rolls: Defines the Rolls as either Veg or Non-Veg```
 
 ![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/c8edc3a6-47ea-4104-a41f-089be41bc56a)
 
 
-```6. rolls_recipes:```
+```6. rolls_recipes: Defines the ingredient_ids for both Veg and Non-Veg Rolls```
 
 ![image](https://github.com/prithush92/Analyzing-a-food-ordering-startup/assets/126896351/b3cdd329-a803-432d-91d5-e224170a5c2d)
 
